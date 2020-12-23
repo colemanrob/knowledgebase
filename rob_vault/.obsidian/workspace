@@ -48,6 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "4950db6cfbc7e50f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -75,6 +83,16 @@
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19307cf86ce3de1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }

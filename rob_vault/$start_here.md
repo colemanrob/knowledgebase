@@ -1,6 +1,11 @@
 This is where i'll _start_
 
-- R programming
-- Active Labour Market Policy
-- Data science
-- Economic Theory & Methods
+- Data Science
+	- R Programming
+	- Causal Inference
+- Economics
+	- Active Labour Market Policy
+	- Methods and Evaluation
+- Ideas and Inspiration
+
+
