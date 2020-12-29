@@ -1,11 +1,15 @@
 This is where i'll _start_
 
 - Data Science
-	- R Programming
+	- R
 	- Causal Inference
-- Economics
-	- Active Labour Market Policy
+- [[Active Labour Market Policy (ALMP)]]
+	- Jurisdictional Scan
 	- Methods and Evaluation
+	- Operations
+	- Workforce development
 - Ideas and Inspiration
+	- Books
+	- Articles
 
 
